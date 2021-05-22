@@ -12,7 +12,7 @@ For more information about how your project can benefit from Foundation membersh
 
 ### Introduction
 
-This governance policy sets forth the proposal process for projects to be accepted into the Foundation. The process is the same for both existing projects which seek to move into the Foundation and new projects to be formed within the Foundation. At any point in time a project may move from one stage to another; there is no value judgement associated with which stage a project is in, but rather it is meant to be a way of aligning the resources and attention that various projects require from the TAC and Foundation.
+This governance policy sets forth the proposal process for projects to be accepted into the Foundation. The process is the same for both existing projects which seek to move into the Foundation and new projects to be formed within the Foundation. At any point in time a project may move from one stage to another; there is no value judgement associated with which stage a project is in, but rather it is meant to be a way of aligning the resources and attention that various projects require from the Technical Advisory Council (TAC) and Foundation.
 
 
 <table>
